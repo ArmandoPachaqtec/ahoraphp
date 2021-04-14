@@ -1,7 +1,7 @@
 <?php
 
 /**
- * Used to store website configuration information.
+ * Used to store website configuration information, using with Pachaqtec.org.
  *
  * @var string or null
  */
